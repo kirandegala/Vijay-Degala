@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kirandegala026@gmail.com**
 
-- 📄 Check out my work and experiences in my [RESUME](https://drive.google.com/file/d/1VWDS2BSgR2r-o_FeAK1W49-6Zm0jau3V/view?usp=sharing)
+- 📄 Check out my work and experiences in my [RESUME](https://drive.google.com/file/d/14ejb7aonxzqk0BpcwbZP_ULPM6Thd18P/view?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
