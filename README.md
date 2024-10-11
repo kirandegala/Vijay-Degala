@@ -1,4 +1,3 @@
-![MasterHead](https://camo.githubusercontent.com/4d9b69fbcf69c1c723320e8d74d8fa9ee1fc7baf4a3f55d478f03b6a47e7e6cb/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d3466396530663139613632663464656533366535633265326533663133393133)
 
 <h1 align="center">Hey there, I'm Vijay Degala! 👋</h1>
 <h3 align="center">A creative Software Engineer and AI enthusiast</h3>
