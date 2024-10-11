@@ -38,7 +38,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+Developer;AI/ML+Enthusiast;Blockchain+Explorer;Lifelong+Learner&center=true&size=25&vCenter=true&width=500&height=50" alt="Typing Animation">
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijay-degala&show_icons=true&theme=radical" alt="Vijay's GitHub stats">
-</p>
