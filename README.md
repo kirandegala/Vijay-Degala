@@ -1,34 +1,42 @@
-Hi, I'm Vijay Degala 👋
-I'm a skilled software engineer with a passion for developing scalable web applications and integrating machine learning solutions. With over three years of experience, I specialize in full-stack development, microservices architecture, and database optimization, delivering robust solutions that enhance user experiences.
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+<h1 align="center">Hi 👋, I'm Vijay Degala</h1>
+<h3 align="center">A passionate Software Engineer</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-🛠️ Core Competencies
-Full Stack Development: React, Django, Flask, Node.js, Express.js
-Microservices Architecture: Design and implementation of modular services
-Database Management: SQL, PostgreSQL, MongoDB, MySQL
-API Development: RESTful and GraphQL APIs for seamless data integration
-Machine Learning: Integration of ML models for predictive analytics
-DevOps: CI/CD pipelines with Jenkins, Docker, and Kubernetes
-💼 Professional Experience
-Graduate Research Assistant at University of Central Florida (2024 - Present)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay-degala&label=Profile%20views&color=0e75b6&style=flat" alt="vijay-degala" /> </p>
 
-Developed a responsive mobile app using React Native and GPT-4 for healthcare support.
-Implemented secure data storage on GCP and authentication using Azure OpenAI API.
-Software Engineer Intern at CVS Health (2023 - 2024)
+- 🌱 I’m currently learning **Advanced AI/ML techniques and Blockchain integration**
 
-Built front-end components with ReactJS and TypeScript for internal applications.
-Enhanced big data handling with Kafka and PySpark for real-time processing.
-Software Engineer at Caspian Debt (2022 - 2023)
+- 👯 I’m looking to collaborate on **Full-Stack Development Projects**
 
-Led the development of SPAs using Flask and integrated ML models for loan assessments.
-Reduced network latency by 25% with GraphQL APIs for improved front-end performance.
-Software Engineer at Rock Infra Developers (2021 - 2022)
+- 🤝 I’m looking for help with **Machine Learning Implementations**
 
-Created a full-stack web app using React.js and Django, optimizing user interactions.
-Designed a CI/CD pipeline with Jenkins, Docker, and deployed on AWS EKS.
-🌱 Currently Learning
-Advanced AI/ML techniques and large language models (LLMs)
-Enhanced cloud-native development with AWS and GCP services
-Blockchain integration for secure data transactions
-📫 Let's Connect
-LinkedIn: Vijay Degala
-Email: kirandegala026@gmail.com
+- 💬 Ask me about **React, TypeScript, Microservices, CI/CD, RESTful APIs, and Database Management**
+
+- 📫 How to reach me **kirandegala026@gmail.com**
+
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1VWDS2BSgR2r-o_FeAK1W49-6Zm0jau3V/view?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vijay-degala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay degala" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=-%20Full%20Stack%20Developer;-%20AI/ML%20Enthusiast;-%20Loves%20Coding%20Challenges;&&center=true&size=30&vCenter=true&width=400&height=60" alt="Typing Animation">
+</p>
